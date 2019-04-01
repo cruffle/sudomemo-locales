@@ -1,14 +1,14 @@
 msgid "CHANGE_LANGUAGE"
-msgstr "Change Language"
+msgstr "chagne wanguage"
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Your language has been updated to %s."
+msgstr "ur wanguage has been updated to %s!!!! waw dats amazing Owu"
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you citizenship. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomeme RAWR XD relies on its comuwunity to pwovide accurate twanswations. If you see non corecty language, it still in engwish, the twanswation sucky suc, or if you wanna add ur own lanuwage, PWEASE CONTWIBUTE!!!!Full verified twanslations can give u citizenship. uwu. u can do it hewe!! https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Return to Creator's Room"
+msgstr "Return to Creatow's Woom"
 
 msgid "NOT_LOGGED_IN"
 msgstr "Pwease wog in to change ur language...QWQ"
